@@ -4,7 +4,7 @@
 			"id": "1",
 			"category": "Games",
 			"title": "Fortnite (FOR ALL CONSOLES)",
-			"img": "https://raw.githubusercontent.com/MudassarKhop/car/main/ferrari%202.jpg",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/car/main/ferrari%202.jpg",
 			"price": "FREE-TO-PLAY",
 			"description": "Fortnite is an online video game developed by Epic Games and released in 2017.",
 			"company": "Epic Games"
@@ -13,7 +13,7 @@
 			"id": "2",
 			"category": "Games",
 			"title": "Call Of Duty: Warzone (FOR ALL CONSOLES)",
-			"image": "",
+			"image": "https://ibb.co/Fm4cR9L",
 			"price": "FREE-TO-PLAY",
 			"description": "Call of Duty: Warzone is a free-to-play battle royale video game released on March 10, 2020, for PlayStation 4, Xbox One, and Microsoft Windows.",
 			"company": "Activision"
@@ -31,7 +31,7 @@
 			"id": "4",
 			"category": "Games",
 			"title": "PUBG (FOR ALL CONSOLES)",
-			"image": "https://raw.githubusercontent.com/MudassarKhop/pictures-for-vue/main/New%20folder/playerunknowns_battlegrounds_pugb_xbox_one_1.jpg",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/playerunknowns_battlegrounds_pugb_xbox_one_1.jpg",
 			"price": "FREE-TO-PLAY",
 			"description": "Land on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds.",
 			"company": "Krafton"
@@ -40,16 +40,16 @@
 			"id": "5",
 			"category": "Games",
 			"title": "Grand Theft Auto V",
-			"image": "",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/Screenshot%202022-07-08%20121659.jpg",
 			"price": "500",
 			"description": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games.",
 			"company": "Rockstar"
 		},
 		{
 			"id": "6",
-			"categories": "Games",
+			"category": "Games",
 			"title": "Pokémon Scarlet and Violet Switch",
-			"image": "",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/Screenshot%202022-07-08%20121944.jpg",
 			"price": "200",
 			"description": "Pokémon Scarlet and Pokémon Violet are upcoming 2022 role-playing video games developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch.",
 			"company": "Game Freak"
@@ -76,7 +76,7 @@
 			"id": "9",
 			"category": "Games",
 			"title": "Fifa 22",
-			"image": "",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/fifa-2022-kylian-mbappe-cover-news-info-001.jpg",
 			"price": "899",
 			"description": " FIFA 22 is a football simulation video game published by Electronic Arts. It is the 29th installment in the FIFA series, and was released worldwide on 1 October 2021.",
 			"company": "Electronic Arts"

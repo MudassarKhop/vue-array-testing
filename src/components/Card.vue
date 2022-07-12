@@ -2,7 +2,7 @@
 	<div>
 		<div class="everything">
 			<div id="cards" class="card col-lg-4" style="width: 290px">
-				<img v-bind:src="product.img" alt="" />
+				<img v-bind:src="product.image" alt="" />
 				<router-link
 					:to="{ name: 'cards', params: { id: product.id } }"
 					class="card-body"
