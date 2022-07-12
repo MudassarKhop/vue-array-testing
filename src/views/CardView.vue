@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div class="display">
 		<card v-for="product in products" :key="product.id" :product="product" />
 	</div>
 </template>
@@ -20,4 +20,13 @@
 		},
 	};
 </script>
-<style></style>
+<style scoped>
+	.display {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-content: center;
+		gap: 25px;
+	}
+</style>
