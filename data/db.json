@@ -85,46 +85,46 @@
 			"id": "10",
 			"category": "Games",
 			"title": "Forza Horizon 5 Xbox One",
-			"image": "",
-			"price": "",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/forza.jpg",
+			"price": "899",
 			"description": "Forza is a series of simulation racing games for Xbox consoles, Microsoft Windows, iOS and Android devices published by Xbox Game Studios.",
 			"company": "Microsoft Corporation"
 		},
 		{
 			"id": "11",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Games",
+			"title": "Madden NFL 22",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/madden-nfl-22-xbox-one-64213.png",
+			"price": "899",
+			"description": "Madden NFL 22 is an American football video game based on the National Football League, developed by EA Tiburon and published by Electronic Arts.",
+			"company": "Electronic Arts"
 		},
 		{
 			"id": "12",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Games",
+			"title": "Need for Speed™",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/need.png",
+			"price": "699",
+			"description": "Need for Speed is a racing video game franchise published by Electronic Arts and currently developed by Criterion Games, the developers of Burnout.",
+			"company": "Electronics Art"
 		},
 		{
 			"id": "13",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Games",
+			"title": "NBA 2K22",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/Screenshot%202022-07-08%20120907.jpg",
+			"price": "899",
+			"description": "NBA 2K22 is a 2021 basketball simulation video game developed by Visual Concepts and published by 2K Sports, based on the National Basketball Association.",
+			"company": "2K Gaming"
 		},
 		{
 			"id": "14",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Consoles",
+			"title": "Xbox One S",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder%20(2)/s-l640.jpg",
+			"price": "6799.99",
+			"description": "Go all digital with the Xbox One S All-Digital Edition and build a library of digital games that travels with you and is available in the cloud.",
+			"company": "Microsoft Corporation"
 		},
 		{
 			"id": "15",
