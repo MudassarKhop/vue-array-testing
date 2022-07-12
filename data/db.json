@@ -13,7 +13,7 @@
 			"id": "2",
 			"category": "Games",
 			"title": "Call Of Duty: Warzone (FOR ALL CONSOLES)",
-			"image": "https://ibb.co/Fm4cR9L",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/warzone.jpg",
 			"price": "FREE-TO-PLAY",
 			"description": "Call of Duty: Warzone is a free-to-play battle royale video game released on March 10, 2020, for PlayStation 4, Xbox One, and Microsoft Windows.",
 			"company": "Activision"
@@ -58,7 +58,7 @@
 			"id": "7",
 			"category": "Games",
 			"title": "Diablo III",
-			"image": "",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder/diablo.jpg",
 			"price": "250",
 			"description": "Diablo III is a hack-and-slash action role-playing game developed and published by Blizzard Entertainment as the third installment in the Diablo franchise.",
 			"company": "Blizzard Entertainment"
@@ -83,12 +83,12 @@
 		},
 		{
 			"id": "10",
-			"category": "",
-			"title": "",
+			"category": "Games",
+			"title": "Forza Horizon 5 Xbox One",
 			"image": "",
 			"price": "",
-			"description": "",
-			"company": ""
+			"description": "Forza is a series of simulation racing games for Xbox consoles, Microsoft Windows, iOS and Android devices published by Xbox Game Studios.",
+			"company": "Microsoft Corporation"
 		},
 		{
 			"id": "11",
