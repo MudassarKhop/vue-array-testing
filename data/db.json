@@ -128,57 +128,57 @@
 		},
 		{
 			"id": "15",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Consoles",
+			"title": "Xbox One",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder%20(2)/Screenshot%202022-07-08%20134354.jpg",
+			"price": "5499.99",
+			"description": "Announced in May 2013, it is the successor to Xbox 360 and the third base console in the Xbox series of video game consoles. ",
+			"company": "Microsoft Corporation"
 		},
 		{
 			"id": "16",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Consoles",
+			"title": "Nintendo Switch",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder%20(2)/045496453206_imageoutofpack.png",
+			"price": "3499.00",
+			"description": "Introducing Nintendo Switch, the new home video game system from Nintendo. In addition to providing single and multiplayer thrills at home.",
+			"company": "Nintendo"
 		},
 		{
 			"id": "17",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Consoles",
+			"title": "PlayStation 4 Pro",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder%20(2)/81l3H5F3I1L._SL1500_.jpg",
+			"price": "7499.00",
+			"description": "PS4 Pro packs in twice the GPU power of the standard PS4 – letting you experience incredible image clarity, smoother gameplay and shorter load times ",
+			"company": "Sony Incorporation"
 		},
 		{
 			"id": "18",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Consoles",
+			"title": "PlayStation 4 Slim",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder%20(2)/61n-yWHcmSS._AC_SL1500_.jpg",
+			"price": "4599.00",
+			"description": "As a noticeably smaller model, the PS4 Slim is a much better fit for gaming setups with less space on offer.",
+			"company": "Sony Incorporation"
 		},
 		{
 			"id": "19",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Consoles",
+			"title": "PlayStation 5",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder%20(2)/61d4loPJB9L._SL1500_.jpg",
+			"price": "13000.00",
+			"description": "Experience lightning-fast loading with a high-speed SSD - deeper immersion with support for haptic feedback - adaptive triggers.",
+			"company": "Sony Incorporation"
 		},
 		{
 			"id": "20",
-			"category": "",
-			"title": "",
-			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"category": "Consoles",
+			"title": "Xbox One X ",
+			"image": "https://raw.githubusercontent.com/MudassarKhop/vue-array-testing/main/pictures/New%20folder%20(2)/610ZPguM7BL._AC_SL1200_.jpg",
+			"price": "13000.00",
+			"description": "The Xbox One X is a powerful step-up console that supports 4K, HDR and offers improved visuals and framerates for certain games",
+			"company": "Microsoft Corporation"
 		},
 		{
 			"id": "21",
