@@ -182,435 +182,430 @@
 		},
 		{
 			"id": "21",
-			"category": "",
-			"title": "",
+			"category": "Consoles",
+			"title": "Amazon Luna",
+			"description": "Amazon Luna is a cloud gaming platform developed and operated by Amazon. Luna was announced on September 24, 2020, with early access available to subscribers by invitation beginning on October 20, 2020.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "2999.00",
+			"company": "Amazon"
 		},
 		{
 			"id": "22",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Galax GeForce RTX 3090 Serious Gaming Edition (1-Click OC)",
+			"description": "The all-new GALAX Serious Gaming Edition has equipped with 1-Clip Booster, which can be installed at the back plate and it is the precision and quality that win. When the fan is at the back the PCB is in fact much shorter than the cooler.",
 			"image": "",
-			"price": "",
-			"description": "",
+			"price": "37990.00",
 			"company": ""
 		},
 		{
 			"id": "23",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "MSI GeForce RTX 3090 VENTUS 3X 24G OC 24GB GDDR6X",
+			"description": "The GeForce RTX™ 3090 is a big ferocious GPU (BFGPU) with TITAN class performance. It's powered by Ampere—NVIDIA's 2nd gen RTX architecture—doubling down on ray tracing and AI performance.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "427990.00",
+			"company": "Msi"
 		},
 		{
 			"id": "24",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Gigabyte GeForce RTX 3090 AORUS XTREME GV-N3090AORUS X-24GD 24GB GDDR6",
+			"description": "NVIDIA Ampere Streaming Multiprocessors, 2nd Generation RT Cores, 3rd Generation Tensor Cores Powered by GeForce RTX™ 3090.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "36000.00",
+			"company": "Gigabyte"
 		},
 		{
 			"id": "25",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Gainward GeForce RTX 3090 Phoenix GW-RTX3090-24GB-PHX 24GB GDDR6X",
+			"description": "The essential companion to your GeForce graphics card. Capture and share videos, screenshots, and livestreams. Keep your drivers up to date and optimize your games.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "52899.99",
+			"company": "Gainward"
 		},
 		{
 			"id": "26",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Phanteks PH-EC400ATG_DBK01 Eclipse P400A Digital RGB Tempered Glass Satin Black Steel ",
+			"description": "Full-Metal Mesh Front Panel, Powder Coated Steel Chassis, Tempered Glass Side Panel, Ultra-Fine Performance Mesh with Uncompromised Airflow, Mid-Tower Form Factor",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "1499.00",
+			"company": "Phanteks"
 		},
 		{
 			"id": "27",
-			"category": "",
-			"title": "",
+			"title": "G.Skill F4-3200C16D-32GVK Ripjaws V 32GB (2x16GB) DDR4-3200MHz CL16 1.35V Black Desktop Memory",
+			"description": "32GB (2x16GB), DDR4-3200MHz",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "2090.00",
+			"company": "G.skills"
 		},
 		{
 			"id": "28",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Asus PRIME B550-PLUS AMD B550 Ryzen Socket AM4 ATX Desktop Motherboard",
+			"description": "AMD AM4 socket: Ready for 3rd Gen AMD Ryzen™ Processors Ultrafast connectivity: Dual M.2, PCIe 4.0, 1 Gb Ethernet, USB 3.2 Gen 2 Type-A and Type-C Comprehensive cooling: VRM heatsinks, PCH heatsink, and Fan Xpert 4",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "4699.99",
+			"company": "Asus"
 		},
 		{
 			"id": "29",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Asus 90MB19Z0-M0EAY0 TUF GAMING X570-PRO WIFI II AMD X570 Ryzen Socket AM4 ATX Desktop Motherboard",
+			"description": "AMD AM4 socket: Ready for AMD Ryzen™ 5000 Series, 5000 G-Series, 4000 G-Series, 3000 Series, 3000 G-Series, 2000 G-Series and 2000 Series desktop processors Enhanced power solution: 12+2 DrMOS power stages, six-layer PCB, ProCool sockets, military-grade TUF components and Digi+ VRM for maximum durability",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "7899.00",
+			"company": "Asus"
 		},
 		{
 			"id": "30",
-			"category": "",
-			"title": "",
+			"title": "Corsair CP-9020221-WW CX650M 650W 80 Plus Bronze Semi Modular Black Desktop Power Supply",
+			"description": "CORSAIR CX-M Series Low-Noise Power Supplies offer 80 PLUS Bronze efficiency and semi-modular cabling for reliable, low-noise operation.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "849.00",
+			"company": "Corsair"
 		},
 		{
 			"id": "31",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Phanteks PH-F140SK_DRGB_PWM SK 140mm D-RGB PWM Black Case Fan",
+			"description": "Full-Metal Mesh Front Panel, Powder Coated Steel Chassis, Tempered Glass Side Panel, Ultra-Fine Performance Mesh with Uncompromised Airflow, Mid-Tower Form Factor",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "249.00",
+			"company": "Phanteks"
 		},
 		{
 			"id": "32",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Corsair CW-9060048 iCUE H150i Elite Capellix 360mm Liquid CPU Cooler",
+			"description": "The CORSAIR Hydro Series H100i RGB PLATINUM SE is an all-in-one liquid CPU cooler with a 240mm radiator and vivid RGB lighting",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "3599.00",
+			"company": "Corsair"
 		},
 		{
 			"id": "33",
-			"category": "",
-			"title": "",
+			"title": "Corsair CW-9060052-WW H55 RGB All-In-One 120mm Liquid CPU Cooler",
+			"description": "The CORSAIR Hydro Series H100i RGB PLATINUM SE is an all-in-one liquid CPU cooler with a 240mm radiator and vivid RGB lighting",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "1599.00",
+			"company": "Corsair"
 		},
 		{
 			"id": "34",
-			"category": "",
-			"title": "",
+			"title": "AMD 100-100000059WOF Ryzen 9 5950X 16 Core 3.4GHz ",
+			"description": "One processor that can game as well as it creates.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "10990.00",
+			"company": "AMD"
 		},
 		{
 			"id": "35",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "AMD 100-100000651WOF Ryzen 7 5800X3D 8-Core 3.4GHz ",
+			"description": "One processor that can game as well as it creates.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "8799.00",
+			"company": "AMD"
 		},
 		{
 			"id": "36",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Intel BX8071512900KF Core i9-12900KF 16 Core 3.2GHz",
+			"description": "3.20 GHz P-Core Base Clock, 5.10 GHz P-Core Max Turbo Clock, 2.40 GHz E-Core Base Clock, 3.90 GHz E-Core Max Turbo Clock",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "12599.00",
+			"company": "Intel"
 		},
 		{
 			"id": "37",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Intel BX8071512700K Core i7-12700K 12 Core 3.6GHz",
+			"description": "The Intel Corei7 is available in two- to six-core varieties, and can support up to 12 different threads simultaneously. ",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "8700.00",
+			"company": "Intel"
 		},
 		{
 			"id": "38",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Intel BX8071512400 Core i5-12400 Hexa Core 2.50GHz",
+			"description": "The Core i5 processor is available in multiple speeds, ranging from 1.90 GHz up to 3.80 GHz, and it features 3 MB, 4 MB or 6 MB of cache.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "4399.00",
+			"company": "Intel"
 		},
 		{
 			"id": "39",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Intel SSDPE21D960GAM3 Optane 905P 960GB U.2 PCIe NVMe 3.0 Solid State Drive",
+			"description": "960 GB Drive Capacity, Form Factor: U.2 15mm, Interface: PCIe NVMe 3.0 x4, Read Speed: Up to 2600MB/s, Write Speed: Up to 2200MB/s",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "27800.00",
+			"company": "Intel"
 		},
 		{
 			"id": "40",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Fractal Design FD-C-POR1A-06 Pop Air RGB Clear Tempered Glass Black Steel ATX Mid Tower Desktop Chassis",
+			"description": "Full-Metal Mesh Front Panel, Powder Coated Steel Chassis, Tempered Glass Side Panel, Ultra-Fine Performance Mesh with Uncompromised Airflow, Mid-Tower Form Factor",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "2400.00",
+			"company": "Fractal"
 		},
 		{
 			"id": "41",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "G.Skill F4-2800C15Q2-128GRKD Ripjaws 4 128GB (8x16GB)",
+			"description": "32GB (2x16GB), DDR4-3200MHz",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "5200.00",
+			"company": "G.skill"
 		},
 		{
 			"id": "42",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Asus ROG STRIX B550-A GAMING AMD B550 Socket AM4 ATX Desktop Motherboard",
+			"description": "Designed for those seeking to get the most out of their build, ROG Strix B550 Gaming series",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "6700.00",
+			"company": "Asus"
 		},
 		{
 			"id": "43",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Gigabyte GA-H610M-H-DDR4 H610M H DDR4 Intel H610 Alder Lake LGA1700 Micro-ATX Desktop Motherboard",
+			"description": "Supports 12th Gen Intel® Core™ Series Processors, Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs, 6+1+1 Hybrid Digital VRM Design",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "1500.00",
+			"company": "Gigabyte"
 		},
 		{
 			"id": "44",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Zotac GeForce RTX 3050 Gaming Twin Edge OC ZT-A30500H-10M ​8GB GDDR6 128-bit PCI-E 4.0 Desktop Graphics Card",
+			"description": "Supports 12th Gen Intel® Core™ Series Processors, Dual Channel Non-ECC Unbuffered DDR4,",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "5700.00",
+			"company": "Zotac"
 		},
 		{
 			"id": "45",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Palit GeForce RTX 3080",
+			"description": "Supports 12th Gen Intel® Core™ Series Processors, Dual Channel Non-ECC Unbuffered DDR4,",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "14990.00",
+			"company": "Palit"
 		},
 		{
 			"id": "46",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Seagate ST2000DM008 Barracuda 2TB",
+			"description": "2TB Storage Capacity, Form Factor: 3.5, Interface: SATA 6 Gb/s",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "1900.00",
+			"company": "Seagate"
 		},
 		{
 			"id": "47",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Scythe SCMG-5200 Mugen 5 Rev.C 120mm Black PWM Nickel-Plated Copper Single-Fan Premium High-End CPU Cooler",
+			"description": "Full-Metal Mesh Front Panel, Powder Coated Steel Chassis, Tempered Glass Side Panel, Ultra-Fine Performance Mesh with Uncompromised Airflow, Mid-Tower Form Factor",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "849.00",
+			"company": "Scythe"
 		},
 		{
 			"id": "48",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "Dell S2721DGFA 27 WQHD (2560x1440) 165Hz 1ms IPS AMD FreeSync Premium Pro DisplayHDR 400 Gaming Desktop Monitor",
+			"description": "27inch QHD gaming monitor with blazing-fast IPS technology, stunning color coverage and tear-free, stutter-free gameplay in a revamped bold design.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "7999.00",
+			"company": "Dell"
 		},
 		{
 			"id": "49",
-			"category": "",
-			"title": "",
+			"category": "PC Components",
+			"title": "ASUS VG249Q1R TUF Gaming 23.8",
+			"description": "TUF Gaming VG249Q1R is a 23.8-inch, Full HD (1920x1080) display with an ultrafast 165Hz refresh rate designed for professional gamers",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "3599.00",
+			"company": "Asus"
 		},
 		{
 			"id": "50",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "LG 27GN950-B UltraGear 27",
+			"description": "27” fhd (1920 x 1080) ips display ips 1ms (gtg) response time & 144hz refresh rate nvidia g-sync compatible with amd freesync premium",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "12000.00",
+			"company": "LG"
 		},
 		{
 			"id": "51",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Logitech G29 Driving Force Racing Wheel,Floor Pedals,Force Feedback, PS, PC",
+			"description": "Home Accesorios Logitech G29 gaming wheel racing wheel driving You will never want to race with a regular controller again after you add Driving Force to your controller",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "2999.00",
+			"company": "Logitech"
 		},
 		{
 			"id": "52",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Logitech - G29 Driving Force Racing Wheel For PS3/PS4",
+			"description": "Home Accesorios Logitech G29 gaming wheel racing wheel driving You will never want to race with a regular controller again after you add Driving Force to your controller",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "5299.00",
+			"company": "Logitech"
 		},
 		{
 			"id": "53",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "RED Edition Recliner design GAMING chair with foot rest",
+			"description": "Reclining gaming chair with massage function, requires 10 AA batteries",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "2100.00",
+			"company": "RED EDITION"
 		},
 		{
 			"id": "54",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Playseat Forza Motorsport PRO",
+			"description": "Official Forza Motorsport Simulator, Quality leather look vinyl Upholstery Durable, Black Coated, adjustable frame",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "10200.00",
+			"company": "Forza"
 		},
 		{
 			"id": "55",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Razer Kraken Green Gaming Headset",
+			"description": " Ear cushions filled with cold gel, Unidirectional retractable microphone, Bauxite aluminum frame, Thicker padding •",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "2910.00",
+			"company": "Razer"
 		},
 		{
 			"id": "56",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Razer Goliathus Chroma Gaming Mat",
+			"description": "Our bestselling soft gaming mouse mat is now Powered by Razer Chroma —ready to illuminate every victory in a stunning spectrum of colors. .",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "999.00",
+			"company": "Razer"
 		},
 		{
 			"id": "57",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Razer Cynosa V2 Gaming Keyboard",
+			"description": "Paint your play in a truly immersive light with the Razer Cynosa V2 - the essential RGB gaming keyboard. ",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "1499.00",
+			"company": "Razer"
 		},
 		{
 			"id": "58",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Razer Basilisk Ultimate Gaming Mouse",
+			"description": "Execute advanced macros and functions seamlessly with a wireless gaming mouse that boasts 11 programmable buttons.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "2399.00",
+			"company": "Razer"
 		},
 		{
 			"id": "59",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Hexagonal Touch LED Room Light Modular Touch Sensitive",
+			"description": "Touch sensitive mood lighting for your gaming set-up",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "989.00",
+			"company": "Logitech"
 		},
 		{
 			"id": "60",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Redragon Anvil RGB Stereo Gaming Speakers",
+			"description": "Redragon Series Anvil Model RD-GS520 Frequency 160Hz - 20,000Hz Speakers 2x 3W RMS Signal to Noise Ratio (SNR) >60dB",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "449.00  ",
+			"company": "Redragon"
 		},
 		{
 			"id": "61",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "I47 Polygon Leg Gaming Desk",
+			"description": "Upgrade Your Gaming Gear! Eureka I47 Polygon Leg Gaming Desk. Enhanced Spaciousness and Durability with the Classic I-Shaped Design. ",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "3799.00",
+			"company": "Eureka Gaming"
 		},
 		{
 			"id": "62",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "RS PRO PC, Steel Ring Run Panel for Use with 19 in 1",
+			"description": "Manage your cables in the best way possible with the RS pro pc made with premium steel ring for a 19 in 1 use mode.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "900.00",
+			"company": "RC"
 		},
 		{
 			"id": "63",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Logitech G502 Hero RGB High Performance Gaming Mouse",
+			"description": "Balance and weight at your control Customize to your advantage. Five 3.6g weights come with your G502 HERO.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "1289.99",
+			"company": "Logitech"
 		},
 		{
 			"id": "64",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Cougar Deathfire EX Gaming Hybrid Mechanical Keyboard And Mouse Combo",
+			"description": "Balance and weight at your control Customize to your advantage. Five 3.6g weights come with your G502 HERO.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "1599.00",
+			"company": "Cougar"
 		},
 		{
 			"id": "65",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Gamdias Hermes E3 RGB Mechanical Gaming Keyboard - White / Blue Switches",
+			"description": "Features 50 million lifecycle, 16.8 million colors with 19 Lighting Effects, Built-n Memory of 32KB. Compact in size and easily portable form factor.",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "699.00",
+			"company": "Gamdias"
 		},
 		{
 			"id": "66",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Everki ONYX EKP132 15.6 Travel Friendly Laptop Backpack",
+			"description": "perfect for the traveling executive Every detail of the Onyx has been designed with the traveling executive in mind. Its top-of-the-line materials, premium features ",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "3799.00",
+			"company": "Everki"
 		},
 		{
 			"id": "67",
-			"category": "",
-			"title": "",
+			"title": "EVERKI WHEELED 420 15.6 to 18.4 Laptop Trolley Bag / Multi-Device Storage",
+			"description": "Laptop Trolley Bag / Multi-Device Storage / Sturdy Low-Profile Wheels Inset Into The Bag / Documents or Manual Dividers",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "3899.00",
+			"company": "Everki"
 		},
 		{
 			"id": "68",
-			"category": "",
-			"title": "",
+			"category": "Others",
+			"title": "Evetech SCOUT 17.3 Laptop Backpack / Multiple Compartments, Easy Storage",
+			"description": "Evetech SCOUT 17.3 Laptop Backpack / Multiple Compartments, Easy Storage / Strong Carry Handles For Easy Grip / Flexible Padding For Protection / EV-008",
 			"image": "",
-			"price": "",
-			"description": "",
-			"company": ""
+			"price": "1300.00",
+			"company": "Evetech"
 		}
 	]
 }
