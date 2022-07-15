@@ -236,6 +236,7 @@
 		},
 		{
 			"id": "27",
+			"category": "PC Components",
 			"title": "G.Skill F4-3200C16D-32GVK Ripjaws V 32GB (2x16GB) DDR4-3200MHz CL16 1.35V Black Desktop Memory",
 			"description": "32GB (2x16GB), DDR4-3200MHz",
 			"image": "",
@@ -262,6 +263,7 @@
 		},
 		{
 			"id": "30",
+			"category": "PC Components",
 			"title": "Corsair CP-9020221-WW CX650M 650W 80 Plus Bronze Semi Modular Black Desktop Power Supply",
 			"description": "CORSAIR CX-M Series Low-Noise Power Supplies offer 80 PLUS Bronze efficiency and semi-modular cabling for reliable, low-noise operation.",
 			"image": "",
